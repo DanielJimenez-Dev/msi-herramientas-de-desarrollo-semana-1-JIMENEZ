@@ -1,5 +1,5 @@
 ## Sobre Mí
-Soy Daniel Jiménez, DNI:95899862, estudiante de la Tecnicatura Universitaria en Programación (UTN).
+Soy Daniel Jiménez, DNI:95899862, estudiante de la Tecnicatura Universitaria en Programación (UTN).Re
 
 ## Habilidades Técnicas
 * **Lenguajes y Tecnologías:** Python, Java,
